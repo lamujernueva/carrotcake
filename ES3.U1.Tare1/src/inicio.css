@@ -1,0 +1,39 @@
+body{
+    margin: 0;
+    padding: 0;
+    background-color: #eff6ee;
+    background-image: url("https://1.bp.blogspot.com/_JEROipmsFrY/TKp0n0jnFgI/AAAAAAAAAj8/Yp9edtm67YM/s1600/DSC_0037.JPG");
+    height: auto;
+    width: auto;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+h1, h2, h3{
+    background-color: #ff4f00;
+    text-align: center;
+}
+h1{
+    color: #eff6ee;
+    margin-top: 400px;
+    margin-bottom: 0;
+    padding-top: 20px;
+    font-size: 6em;
+    cursor: default;
+}
+h2{
+    color: #290a00;
+    margin-top: 0;
+    margin-bottom: 0;
+    font-size: 2rem;
+    cursor: default;
+}
+h3{
+    margin-top: 0;
+    margin-bottom: 0;
+    padding-bottom: 20px;
+    cursor: pointer;
+}
+a{
+    text-decoration: none;
+    color: #eff6ee;
+}
